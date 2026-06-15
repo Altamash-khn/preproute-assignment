@@ -6,7 +6,7 @@ const Login = () => {
 
   return (
     <div className="flex flex-col md:flex-row justify-center items-center min-h-screen gap-10 md:gap-20 p-4">
-      {/* Left Side Image */}
+     
       <div className="flex justify-center items-center">
         <img
           src="testtube.svg"
@@ -15,7 +15,7 @@ const Login = () => {
         />
       </div>
 
-      {/* Login Form */}
+    
       <div className="w-full max-w-md">
         <div className="flex flex-col justify-center gap-5">
           <img src="logo.svg" alt="logo" className="w-32" />
